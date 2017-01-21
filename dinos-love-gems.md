@@ -9,6 +9,15 @@ slides:
       **Dinos love gems**
 
   - content: |
+      ## What & why
+
+      Programming and writing code has a very specific logic & flow—one step after the other in order.
+
+      Computers are stupid: we need to tell them *exactly* what to do.
+
+      **Understanding how to speak computer is important for writing Javascript code.**
+
+  - content: |
       ## Set up
 
       1. Form into pairs
