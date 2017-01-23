@@ -86,7 +86,7 @@ slides:
 
   - type: figure
     video: "https://assets.learn-the-web.algonquindesign.ca/workshops/think-like-a-programmer/carousel.mp4"
-    caption: "**Carousel**"
+    caption: "**Carousel**—break it down, one at a time"
 
   - content: |
       ## Carousel in English
