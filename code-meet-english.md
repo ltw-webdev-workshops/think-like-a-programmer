@@ -30,7 +30,7 @@ slides:
 
   - type: figure
     image: "circle-move.gif"
-    caption: "**Circle mover**—think about CSS what properties to change"
+    caption: "**Circle mover**—think about what CSS properties to change"
 
   - content: |
       ## Circle mover in English
@@ -85,7 +85,7 @@ slides:
       });
 
   - type: figure
-    image: "carousel.gif"
+    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/think-like-a-programmer/carousel.mp4"
     caption: "**Carousel**"
 
   - content: |
@@ -101,7 +101,7 @@ slides:
     js: |
       var hideAllSlides = function () {
         $('.slide-1').css('display', 'none');
-        1('.slide-2').css('display', 'none');
+        $('.slide-2').css('display', 'none');
         $('.slide-3').css('display', 'none');
         $('.slide-4').css('display', 'none');
         $('.slide-5').css('display', 'none');
@@ -112,6 +112,6 @@ slides:
         $('.slide-1').css('display', 'block');
       });
 
-      /* Repeat the 4 lines above 4 times… */
+      /* Repeat the 4 lines above 4 times for each different button/slide combo… */
 
 ---
