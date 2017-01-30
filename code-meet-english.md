@@ -114,4 +114,13 @@ slides:
 
       /* Repeat the 4 lines above 4 times for each different button/slide combo… */
 
+  - content: |
+      ## Don’t Repeat Yourself
+
+      *DRY:* A tenet of programming.
+
+      - In the carousel are there repeating patterns in the code?
+      - Can we do anything to improve them?
+      - How can we reduce the the duplicated lines of code?
+
 ---

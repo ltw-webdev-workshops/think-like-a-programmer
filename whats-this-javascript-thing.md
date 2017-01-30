@@ -24,23 +24,14 @@ slides:
       - Adds more features that you can’t normally access
 
   - content: |
-      ## Think like a computer
-
-      - Javascript is a legit programming language
-      - You need to start thinking like a computer
-      - Computers only do exactly what you ask them
-
-  - content: |
       ## Some design-y examples
 
       - Hiding/showing content with clicks
       - Waypoints & smooth scrolling
       - Interactive SVG charts
-      - Carousels*
-      - Lightboxes*
+      - Carousels
+      - Lightboxes
       - Load extra content onto a page
-
-      *\* Simples versions don’t need JS*
 
   - content: |
       ## Some application-y examples
@@ -51,6 +42,13 @@ slides:
       - Data, video & audio communication
       - Form interactions & information collection
       - Super complex applications (Markbot)
+
+  - content: |
+      ## Think like a computer
+
+      - Javascript is a legit programming language
+      - You need to start thinking like a computer
+      - Computers only do exactly what you ask them
 
   - content: |
       ## Videos & tutorials
