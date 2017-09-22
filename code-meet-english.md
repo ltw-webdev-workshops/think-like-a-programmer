@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Code, meet English"
+desc: "An activity to practice converting interactions into English and really trying to break each step into pieces."
 
 slides:
   - type: super-big-text

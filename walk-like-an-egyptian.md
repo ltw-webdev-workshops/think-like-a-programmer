@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Walk like an Egyptian"
+desc: "A small group activity to think about human actions in a programming way: to program another human being."
 
 slides:
   - type: super-big-text

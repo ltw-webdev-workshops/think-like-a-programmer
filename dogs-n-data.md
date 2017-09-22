@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Dogs ’n’ data"
+desc: "An activity to help understand how to structure information into programming formats like arrays and objects."
 
 slides:
   - type: super-big-text

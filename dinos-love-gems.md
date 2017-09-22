@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Dinos love gems"
+desc: "A fun game that explores programming concepts by moving dinosaurs around in a board game."
 
 slides:
   - type: super-big-text

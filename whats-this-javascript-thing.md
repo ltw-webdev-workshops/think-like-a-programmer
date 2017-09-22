@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "What’s this Javascript thing?"
+desc: "An introductory slide deck explaining what Javascript is and what it can do for us and our websites."
 
 slides:
   - type: super-big-text
