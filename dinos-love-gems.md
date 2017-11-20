@@ -15,7 +15,7 @@ slides:
 
       Computers are stupid: we need to tell them *exactly* what to do.
 
-      **Understanding how to speak computer is important for writing Javascript code.**
+      **Understanding how to speak computer is important for writing JavaScript code.**
 
   - content: |
       ## Set up

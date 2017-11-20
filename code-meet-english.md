@@ -22,7 +22,7 @@ slides:
 
       1. Form into pairs
       2. [Print & cut these code snippets](https://assets.learn-the-web.algonquindesign.ca/workshops/think-like-a-programmer/code-meet-english-lines-of-code.zip)
-      3. You’ll be shown a Javascript interaction
+      3. You’ll be shown a JavaScript interaction
       4. Write out the code you’d need—in English
       5. Piece together the code snippets to match
 

@@ -1,15 +1,15 @@
 ---
 layout: slide-deck
-title: "What’s this Javascript thing?"
-desc: "An introductory slide deck explaining what Javascript is and what it can do for us and our websites."
+title: "What’s this JavaScript thing?"
+desc: "An introductory slide deck explaining what JavaScript is and what it can do for us and our websites."
 
 slides:
   - type: super-big-text
     content: |
-      **What’s this Javascript thing?**
+      **What’s this JavaScript thing?**
 
   - content: |
-      ## Javascript ≠ Java
+      ## JavaScript ≠ Java
 
       *Two completely different programming languages*
 
@@ -46,15 +46,15 @@ slides:
   - content: |
       ## Think like a computer
 
-      - Javascript is a legit programming language
+      - JavaScript is a legit programming language
       - You need to start thinking like a computer
       - Computers only do exactly what you ask them
 
   - content: |
       ## Videos & tutorials
 
-      - [Javascript syntax ➔](/topics/javascript-syntax/)
-      - [Javascript validator ➔](/topics/validators/#validating-javascript)
-      - [Javascript cheat sheet ➔](/topics/javascript-cheat-sheet/)
+      - [JavaScript syntax ➔](/topics/javascript-syntax/)
+      - [JavaScript validator ➔](/topics/validators/#validating-javascript)
+      - [JavaScript cheat sheet ➔](/topics/javascript-cheat-sheet/)
 
 ---

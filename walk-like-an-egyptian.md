@@ -15,7 +15,7 @@ slides:
 
       Computers are stupid: we need to tell them *exactly* what to do.
 
-      **Understanding how to break down problems into small steps is essential to writing Javascript.**
+      **Understanding how to break down problems into small steps is essential to writing JavaScript.**
 
   - content: |
       ## Set up

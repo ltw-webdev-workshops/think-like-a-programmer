@@ -1,6 +1,6 @@
 # think == programmer
 
-An introduction to Javascript and logical, computer thinking using a series of activities.
+An introduction to JavaScript and logical, computer thinking using a series of activities.
 
 ### [☛ Think like a programmer curriculum](https://learn-the-web.algonquindesign.ca/workshops/think-like-a-programmer/)
 
