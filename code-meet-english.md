@@ -85,7 +85,7 @@ slides:
       });
 
   - type: figure
-    video: "https://videos.learntheweb.courses/playlists/web-dev-js/carousel.mp4"
+    video: "https://video-assets.learntheweb.courses/web-dev-js/carousel.mp4"
     caption: "**Carousel**—break it down, one at a time"
 
   - content: |
